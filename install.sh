@@ -5,7 +5,7 @@ ssh-keygen -t rsa
 
 echo "Git config"
 git config --global user.name "Mikko Sulonen"
-git config --global user.email mikko.sulonen@solita.fi
+git config --global user.email mikko.sulonen@recordlydata.com
 
 echo "Please add this public key to Github \n"
 echo "https://github.com/account/ssh \n"
